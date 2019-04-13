@@ -4,6 +4,8 @@ WebApp for searching recipes, changing the serving according to your requirement
 Technologies Used: HTML5, CSS3, JavaScript ES6, WebPAck, NPM, Babel, Polyfill, Node.js, Tachyons, UniqIds etc
 MVC architecture(Model View Controller)
 
+Demo: https://m90khan.github.io/MeFoodie/dist/index.html  
+
 How it works:
 <ol>
   <li>I am using https://www.food2fork.com api to fetch the recipes data  (free version: so 50 calls a day)</li>
